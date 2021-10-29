@@ -11,6 +11,10 @@ body {
 	font-family: 'Roboto', sans-serif;
 
 }
+ion-icon {
+	font-size: 28px;
+	/*box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.4);*/
+}
 .menu-bar-close-pad {
 	z-index: 998;
 	background: red;
